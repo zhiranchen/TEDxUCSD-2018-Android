@@ -21,15 +21,15 @@
 
     <color name="item_selection">#1f3e98</color>
 
-    <color name="primary_dark">#06335b</color>
-    <color name="primary">#06335b</color>
+    <color name="primary_dark">#3c3264</color>
+    <color name="primary">#3c3264</color>
 
-    <color name="event_primary">#06335b</color>
+    <color name="event_primary">#3c3264</color>
     <color name="event">#4077aa</color>
     <color name="event_date">#0b73d4</color>
 
-    <color name="speaker_primary">#06335b</color>
-    <color name="speaker">#06335b</color>
+    <color name="speaker_primary">#3c3264</color>
+    <color name="speaker">#3c3264</color>
 
     <color name="favorite">#1f3e98</color>
     <color name="link">#1f3e98</color>
