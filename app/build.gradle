@@ -28,20 +28,23 @@ android {
     }
 
     productFlavors {
-
         connfa {
             applicationId "com.ls.connfa"
-            versionCode 1
-            versionName "1.0.0"
+            versionName "connfa"
+
+            defaultConfig {
+                versionCode 1
+                versionName "1.0.0"
+            }
         }
 
     }
     signingConfigs {
         config {
-            keyAlias 'drupalcon'
-            keyPassword 'lembergsolutions'
-            storeFile file('keystore/keystore.keystore')
-            storePassword 'lembergsolutions'
+            keyAlias 'tedxucsd@gmail.com'
+            keyPassword 'tedxucsd@gmail.com'
+            storeFile file('keystore')
+            storePassword 'tedxucsd@gmail.com'
         }
     }
     buildTypes {
